@@ -13,5 +13,5 @@ Each function demonstrates basic concepts like parameters, default values, loops
 
 ## How to Run
 ```bash
-python3 hos05.py
+python3 pe05.py
 # pe05
